@@ -6,6 +6,7 @@ public class FirstDemoLab {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Thar");
 		System.out.println("You Rascal");
+		System.out.println("Suck a Pecker");
 	}
 
 }
